@@ -21,7 +21,7 @@ npm install --save-dev grunt-contrib-concat
 npm install --save-dev grunt-contrib-copy
 ```
 
-然后我们来写代码，详细内容还是看`Gruntfile.js`，下面是一张运行完后的截图
+然后我们来写代码，详细内容还是看[Gruntfile.js](./Gruntfile.js)，下面是一张运行完后的截图
 
 ![](./images/grunt-result.png)
 

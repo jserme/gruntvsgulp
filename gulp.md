@@ -10,7 +10,7 @@ npm install -g --save-dev gulp
 npm install --save-dev gulp-concat  gulp-uglify  gulp-imagemin  gulp-jshint
 ```
 
-按照[开始教程](https://github.com/gulpjs/gulp/blob/master/README.md#gulp---)里的内容创建一个`gulpfile.js`
+按照[开始教程](https://github.com/gulpjs/gulp/blob/master/README.md#gulp---)里的内容创建一个[gulpfile.js](./gulpfile.js)
 
 运行结果，如图：
 
