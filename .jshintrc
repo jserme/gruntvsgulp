@@ -1,0 +1,17 @@
+{
+    "browser": true,
+    "node": true,
+    "jquery":true,
+    "boss": true,
+    "curly": false,
+    "eqeqeq": false,
+    "eqnull": true,
+    "evil": true,
+    "sub": true,
+    "expr": true,
+    "immed": true,
+    "noarg": true,
+    "smarttabs": true,
+    "-W058":true,
+    "-W041":false
+}
