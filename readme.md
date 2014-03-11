@@ -15,13 +15,20 @@
 ├── dist
 ├── grunt.md
 ├── gulp.md
+├── gulpfile.js
 ├── node_modules
 ├── package.json
 ├── readme.md
 └── src
     ├── images
-    │   └── test.png
+    │   └── test.jpg
     └── js
         ├── jquery-1.11.0.js
         └── underscore.js
 ```
+
+## 分别查看
+
+* [Grunt的结果](grunt.md)
+* [Gulp的结果](gulp.md)
+
