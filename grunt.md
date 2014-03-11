@@ -25,5 +25,5 @@ npm install --save-dev grunt-contrib-copy
 
 ![](./images/grunt-result.png)
 
-可以看出grunt运行时间为2.2s，相应的信息输出很详细
+可以看出grunt运行时间为3.6s，相应的信息输出很详细
 
